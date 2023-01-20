@@ -1,0 +1,9 @@
+.caurosel-slide-control-bg-color{
+    background-color: rgba(241, 173, 173, 0.863);
+}
+.filter-by-novel {
+filter: grayscale(100%);
+}
+.icon-of-review{
+    width: 20px;
+}    
